@@ -6,7 +6,6 @@
 			{{ Form::text('search', null, array('id'=>'searchbox')) }}
 			{{ HTML::linkRoute('home', 'HOME') }}
 			{{ HTML::linkRoute('product', 'PRODUCT') }}
-		
 	</nav>
 </div>
 </header>
