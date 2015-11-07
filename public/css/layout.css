@@ -3,7 +3,18 @@ background-color:#c0dfd4;
 }
 .header{
 height : 100px;
-background:red;
+border :1px solid black;
+}
+.contents{
+
+height:800px;
+
+}
+
+.footer{
+background-color: black;
+height:30px;
+
 }
 .page{
 margin-left:100px;
@@ -13,3 +24,15 @@ background-color:white;
 
 }
 
+#bestSeller{
+height :300px;
+border :1px solid black;
+
+}
+
+#recommendedItem{
+
+height :500px;
+border :1px solid black;
+
+}
