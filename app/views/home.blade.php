@@ -17,7 +17,7 @@
 </div>
 <div class = "container">
 <div id= "bestSeller">
-test
+@include('bestseller');
 </div>
 <div id= "recommendedItem">
 <div id ="menuItem"></div>
