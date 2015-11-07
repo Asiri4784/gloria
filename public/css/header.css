@@ -5,10 +5,12 @@
 	src: url('fonts/OpenSans-Light.otf');
 }
 #head{
-	width:500px;
+	margin-left:100px;
+	margin-right:100px;
+	width:1000px;
 	height:100px;
 }
 #searchbox{
-	margin-left:300px;
+	margin-left:500px;
 	vertical-align:middle;
 }

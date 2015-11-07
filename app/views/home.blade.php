@@ -12,7 +12,7 @@
 <body>
 <div class = "page">
 <div class = "header">
-
+@include('template.headers')
 </div>
 <div class = "content">
 <div id= "bestSeller">
