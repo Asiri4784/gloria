@@ -15,3 +15,8 @@ Route::get('home', array(
 	'as'=>'home',
 	'uses'=>'HomeController@home'
 ));
+Route::get('/', array(
+	'as'=>'home',
+	'uses'=>'IndexController@index'
+));
+
