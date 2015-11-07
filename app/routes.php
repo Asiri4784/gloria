@@ -20,7 +20,8 @@ Route::get('/', array(
 	'uses'=>'IndexController@index'
 ));
 
-Route::get('product', function(
+Route::get('product', function()
+{
 	return View::make('product');
-));
+});
 
