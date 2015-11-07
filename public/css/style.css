@@ -47,19 +47,24 @@
 #title
 {
 	height:50px;
-	border:2px solid red;
+	vertical-align:middle;
 }
 
 #item
 {
 	height:300px;
-	border:2px solid blue;
 }
 
 #box
 {
 	height:300px;
-	border:2px solid black;
 	float:left;
 }
+#pict
+{
+	height:200px;
+	border:1px solid grey;
+	float:left;
+}
+
 }
