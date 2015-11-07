@@ -9,7 +9,7 @@
 </head>
 <body>
 <div class = "header">
-@include('template.header')
+
 
 
 
@@ -17,9 +17,11 @@
 </div>
 <div class = "container">
 <div id= "bestSeller"></div>
-<div id= "editorChoice"></div>
-<div id= "shop"></div>
-<div id= "kualitasTerbaik"></div>
+<div id= "recommendedItem">
+<div id ="menuItem"></div>
+<div id ="showItem"></div>
+
+</div>
 
 </div>
 <div class = "footer"></div>
