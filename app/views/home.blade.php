@@ -16,7 +16,9 @@
 
 </div>
 <div class = "container">
-<div id= "bestSeller"></div>
+<div id= "bestSeller">
+test
+</div>
 <div id= "recommendedItem">
 <div id ="menuItem"></div>
 <div id ="showItem"></div>
