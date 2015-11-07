@@ -10,14 +10,14 @@
 </head>
 <body>
 <div class = "header">
-@include('template.headers')
+
 </div>
 <div class = "container">
 <div id= "bestSeller">
-@include('bestseller');
+@include('bestseller')
 </div>
 <div id= "recommendedItem">
-@include('recommendedItem');
+@include('recommendedItem')
 <div id ="menuItem"></div>
 <div id ="showItem"></div>
 
