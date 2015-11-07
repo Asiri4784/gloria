@@ -48,23 +48,20 @@
 {
 	height:50px;
 	vertical-align:middle;
+	border:none;
 }
 
 #item
 {
 	height:300px;
+	border:none;
 }
 
 #box
 {
 	height:300px;
 	float:left;
-}
-#pict
-{
-	height:200px;
-	border:1px solid grey;
-	float:left;
+	border:none;
 }
 
 }
