@@ -38,6 +38,12 @@
     margin-right: 0;
 }
 
+#wrapper
+{
+	margin-left:100px;
+	margin-right:100px;
+}
+
 #title
 {
 	height:50px;
