@@ -1,8 +1,9 @@
 <html>
 <head>
-	
+		<link rel="stylesheet" type="text/css" href="{{asset('css/recommendedItem.css')}}">
 </head>
 <body>
+<div id ="menuItem">
 <nav class="navbar navbar-default" role="navigation" style = "display:block">
 
   <!-- Collect the nav links, forms, and other content for toggling -->
@@ -14,5 +15,9 @@
     </ul>
   </div><!-- /.navbar-collapse -->
 </nav>
+
+</div>
+<div id ="showItem"></div>
+
 </body>
 </html>

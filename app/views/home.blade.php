@@ -20,8 +20,6 @@
 </div>
 <div id= "recommendedItem">
 @include('recommendedItem')
-<div id ="menuItem"></div>
-<div id ="showItem"></div>
 
 </div>
 
