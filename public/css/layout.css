@@ -3,7 +3,6 @@ background-color:#c0dfd4;
 }
 .header{
 height : 100px;
-border :1px solid black;
 }
 .contents{
 
@@ -26,30 +25,28 @@ background-color:white;
 #title
 {
 	height:50px;
-	border:2px solid red;
+	
 }
 
 #item
 {
 	height:300px;
-	border:2px solid blue;
+	
 }
 
 #box
 {
 	height:300px;
-	border:2px solid black;
+	
 	float:left;
 }
 #bestSeller{
 height :400px;
-border :1px solid black;
 
 }
 
 #recommendedItem{
 
 height :500px;
-border :1px solid black;
 
 }
