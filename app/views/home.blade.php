@@ -8,12 +8,22 @@
 	<script type="text/javascript" src="{{asset('butstrep/js/bootstrap.min.js') }}" ></script>
 </head>
 <body>
-	@include('template.header')
-	<br/>
-	<br/>
-	<br/>
-	<section id="iota">
-		werjwrojiw
-	</section>
+<div class = "header">
+@include('template.header')
+
+
+
+
+</div>
+<div class = "container">
+<div id= "bestSeller"></div>
+<div id= "editorChoice"></div>
+<div id= "shop"></div>
+<div id= "kualitasTerbaik"></div>
+
+</div>
+<div class = "footer"></div>
+	
+
 </body>
 </html>
