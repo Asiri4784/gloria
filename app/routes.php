@@ -24,4 +24,3 @@ Route::get('product', array( 'as'=>'product', function()
 {
 	return View::make('product');
 }));
-

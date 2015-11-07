@@ -7,10 +7,22 @@
 #head{
 	margin-left:100px;
 	margin-right:100px;
-	width:1000px;
+	width:1150px;
 	height:100px;
+	background-color:blueviolet;
+	font-weight:bold;
 }
 #searchbox{
 	margin-left:50%;
 	vertical-align:middle;
+}
+#right{
+	text-align:right;
+}
+home{
+	margin-left:5px;
+	margin-right:5px;
+}
+a:link{
+	color:black;
 }
