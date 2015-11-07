@@ -11,12 +11,16 @@
 |
 */
 
-Route::get('home', array(
-	'as'=>'home',
+Route::get('homes', array(
+	'as'=>'homes',
 	'uses'=>'HomeController@home'
 ));
 Route::get('/', array(
 	'as'=>'home',
 	'uses'=>'IndexController@index'
+));
+
+Route::get('product', function(
+	return View::make('product');
 ));
 

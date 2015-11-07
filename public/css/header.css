@@ -1,0 +1,14 @@
+@font-face{
+	font-family: 'Track';
+	src: url('fonts/Track.otf');
+	font-family: 'OpenSans';
+	src: url('fonts/OpenSans-Light.otf');
+}
+#head{
+	width:100px;
+	height:100px;
+}
+#searchbox{
+	margin-left:300px;
+	vertical-align:middle;
+}
